@@ -1,0 +1,16 @@
+Monokai.terminal
+====================
+
+Default theme for Sublime Text for OS X Terminal
+
+
+Installation
+============
+
+Double click the _Monokai.terminal_ to install.
+
+
+Credit
+==========
+
+Monokai color scheme created by Wimer Hazenberg, http://monokai.nl
