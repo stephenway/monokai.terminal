@@ -1,27 +1,14 @@
 Monokai.terminal
 ----------------
 
-Sublime Text 2's default theme for OS X Terminal
+The Monokai color scheme for OS X Terminal
 
 
-## Installation
+## How do I install it?
 
-Clone the Monokai.terminal repository to your Downloads folder.
-
-```
-git clone git://github.com/stephenway/Monokai.terminal.git ~/Downloads
-```
-
-Double click the Monokai.terminal file to install.
-
-## Contact
-
-Stephen Way
-
-- http://github.com/stephenway
-- http://twitter.com/stephencway
-- http://alpha.app.net/stephenway
-- stephencway@me.com
+1. Clone the Monokai.terminal repository to your Downloads folder. `git clone git://github.com/stephenway/Monokai.terminal.git ~/Downloads/Monokai.terminal`
+2. Open the Monokai.terminal file to install.
+3. Optionally open up Terminal preferences for more options.
 
 ## License
 
@@ -29,4 +16,5 @@ This project is not licensed and is free for anyone to use.
 
 ## Credit
 
+Monokai terminal theme created by [Stephen Way](https://github.com/stephenway).
 The Monokai color scheme was created by Wimer Hazenberg, http://monokai.nl
