@@ -1,11 +1,3 @@
-# Project Files #
-#################
-*.sublime-project
-*.sublime-workspace
-.DS_Store
-
-# OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*
