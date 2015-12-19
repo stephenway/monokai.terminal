@@ -1,6 +1,7 @@
 # monokai.terminal
 The Monokai color scheme for OS X Terminal and iTerm
 
+
 ![screenshot](screenshot.png)
 
 ## How to install
