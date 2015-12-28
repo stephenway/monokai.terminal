@@ -11,7 +11,7 @@ The Monokai color scheme for OS X Terminal and iTerm
 3. Optionally open up Terminal or iTerm  preferences for more options.
 
 ## License
-This project is licensed under the MIT [license](license).
+This project is licensed under the MIT [license](LICENSE).
 
 ## Credit
 Monokai Terminal and iTerm theme created by [Stephen Way](https://github.com/stephenway).
