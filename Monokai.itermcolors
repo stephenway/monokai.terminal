@@ -41,22 +41,13 @@
 	<key>Ansi 12 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.81746715307235718</real>
-		<key>Green Component</key>
-		<real>0.72489368915557861</real>
-		<key>Red Component</key>
-		<real>0.38222122192382812</real>
-	</dict>
-	<key>Ansi 13 Color</key>
-	<dict>
-		<key>Blue Component</key>
 		<real>0.73601889610290527</real>
 		<key>Green Component</key>
 		<real>0.35389861464500427</real>
 		<key>Red Component</key>
 		<real>0.41298377513885498</real>
 	</dict>
-	<key>Ansi 14 Color</key>
+	<key>Ansi 13 Color</key>
 	<dict>
 		<key>Blue Component</key>
 		<real>0.3957560658454895</real>
@@ -64,6 +55,15 @@
 		<real>0.2202860563993454</real>
 		<key>Red Component</key>
 		<real>0.83879584074020386</real>
+	</dict>
+	<key>Ansi 14 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.81746715307235718</real>
+		<key>Green Component</key>
+		<real>0.72489368915557861</real>
+		<key>Red Component</key>
+		<real>0.38222122192382812</real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -95,22 +95,13 @@
 	<key>Ansi 4 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.81746715307235718</real>
-		<key>Green Component</key>
-		<real>0.72489368915557861</real>
-		<key>Red Component</key>
-		<real>0.38222122192382812</real>
-	</dict>
-	<key>Ansi 5 Color</key>
-	<dict>
-		<key>Blue Component</key>
 		<real>0.73601889610290527</real>
 		<key>Green Component</key>
 		<real>0.35389861464500427</real>
 		<key>Red Component</key>
 		<real>0.41298377513885498</real>
 	</dict>
-	<key>Ansi 6 Color</key>
+	<key>Ansi 5 Color</key>
 	<dict>
 		<key>Blue Component</key>
 		<real>0.3957560658454895</real>
@@ -118,6 +109,15 @@
 		<real>0.2202860563993454</real>
 		<key>Red Component</key>
 		<real>0.83879584074020386</real>
+	</dict>
+	<key>Ansi 6 Color</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.81746715307235718</real>
+		<key>Green Component</key>
+		<real>0.72489368915557861</real>
+		<key>Red Component</key>
+		<real>0.38222122192382812</real>
 	</dict>
 	<key>Ansi 7 Color</key>
 	<dict>
